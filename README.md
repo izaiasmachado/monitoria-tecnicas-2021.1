@@ -8,7 +8,7 @@ Telegram: izaiasmachado
 ```
 
 ## Sobre os encontros
-Todas as sextas-feiras às 13 até 13:40 horas no ambiente solar. É possível entrar na sala virtual 5 min antes das 13h e o sistema encerra automaticamente a webconferência às 13h55.
+Todas as sextas-feiras às 13h até 13h40, no ambiente solar. É possível entrar na sala virtual 5 min antes das 13h e o sistema encerra automaticamente a webconferência às 13h55.
 
 A ideia é tirar suas dúvidas em um momento inicial. Sintam-se livres para abrir o microfone e falar (NÃO deixem as dúvidas para última hora). 
 
