@@ -7,6 +7,10 @@ Se todas as dúvidas forem sanadas a ideia é mostrar conceitos que eu considero
 
 Qualquer conteúdo adicional será apresentado nesse repositório.
 
+## Notas
+- [Encontro de Monitoria 01 (18/06/2021)
+](https://github.com/izaiasmachado/monitoria-tecnicas-2021.1/blob/main/notas/encontro01.md)
+
 ## Sobre mim
 Meu nome é Izaias Machado, sou membro do PET da Engenharia da Computação. Você pode entrar em contato comigo pelas seguintes redes ou pelo Ambiente SOLAR,
 ```
