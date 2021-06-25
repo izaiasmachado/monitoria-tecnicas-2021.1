@@ -3,13 +3,13 @@ Inicialmente foi feita uma apresentação sobre a monitoria e como não houveram
 
 O conceito abordado foi o uso de uma classe já pronta chamada Scanner para receber a partir da linha de comando informações do usuário. Importamos a classe com `import java.util.Scanner;` é similar ao include do C.
 
-Após isso, foi explicado como tratar as excessões pelo uso de try e catch. Onde try é o que estamos tentando fazer e catch é quando ocorre uma excessão, ou seja um erro.
+Após isso, foi explicado como tratar as exceções pelo uso de try e catch. Onde try é o que estamos tentando fazer e catch é quando ocorre uma exceção, ou seja um erro.
 
 No código feito, pedimos para o usuário o número de sua conta e recebemos isso como uma String. Após isso, utilizamos o try para converter essa String em um inteiro e se o que o usuário digitou não for inteiro, é exibida uma mensagem de erro e é perguntado o número da conta novamente. 
 
-Essa é uma forma específica de tratar os erros e você mesmo pode implementar uma função que usa `throws exception`, ou seja indica que houve uma excessão.
+Essa é uma forma específica de tratar os erros e você mesmo pode implementar uma função que usa `throws exception`, ou seja indica que houve uma exceção.
 
-Portanto, esse conceito é muito útil para tratar os erros do usuário ou do próprio programa. Imagine um programa que cria um arquivo em um local específico, se não for possível salvar o arquivo é sinal que houve uma excessão e por isso mostramos uma mensagem de erro.
+Portanto, esse conceito é muito útil para tratar os erros do usuário ou do próprio programa. Imagine um programa que cria um arquivo em um local específico, se não for possível salvar o arquivo é sinal que houve uma exceção e por isso mostramos uma mensagem de erro.
 
 ### Principal.java
 ```java
