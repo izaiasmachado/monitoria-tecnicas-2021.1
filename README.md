@@ -10,6 +10,7 @@ Qualquer conteúdo adicional será apresentado nesse repositório.
 ## Notas
 - [Encontro de Monitoria 01 (18/06/2021)](https://github.com/izaiasmachado/monitoria-tecnicas-2021.1/blob/main/notas/encontro01.md)
 - [Encontro de Monitoria 02 (25/06/2021)](https://github.com/izaiasmachado/monitoria-tecnicas-2021.1/blob/main/notas/encontro02.md)
+- [Encontro de Monitoria 03 (02/07/2021)](https://github.com/izaiasmachado/monitoria-tecnicas-2021.1/blob/main/notas/encontro03.md)
 
 ## Sobre mim
 Meu nome é Izaias Machado, sou membro do PET da Engenharia da Computação. Você pode entrar em contato comigo pelas seguintes redes ou pelo Ambiente SOLAR,
